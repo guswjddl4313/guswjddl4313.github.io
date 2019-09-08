@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<style>
+		header{
+			border-bottom:1px solid gray;
+			padding:20px;
+			}
+		nav{
+			border-right:1px solid gray;
+			width:200px;
+			height:600px;
+			float:left;
+			}
+		article{
+			float:left;
+			padding:20px;
+			}
+		article ul{
+			list-style:none;
+			}
+		h3{
+			font-size:30px;
+			}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>2.단어와 품사</h1>
+		<h2><a href="https://guswjddl4313.github.io/index">(1)단어의 품사와 특성</a></h2>
+	</header>
+	<nav>
+		<ul>
+			<li><a href="https://guswjddl4313.github.io/index1">격조사</a></li>
+			<li><a href="https://guswjddl4313.github.io/index2">보조사</a></li>
+			<li><a href="https://guswjddl4313.github.io/index3">접속조사</a></li>
+		</ul>
+	</nav>
+	<article>
+		<ul>
+			<li><h3>격조사</h3><li>
+			<li><strong>격조사란?</strong><li>
+			<li>앞에 오는 체언이 문장 안에서 일정한 자격을 가지도록 해 주는 조사<li>
+		</ul>
+		<strong>격조사의 종류</strong>
+		<ol>
+			<li>주격 조사</li>
+      '이/가'와 같이 주어가 되게 하는 조사
+			<li>목적격 조사</li>
+			<li>관형격 조사</li>
+      <li>보격 조사</li>
+      <li>부사격 조사</li>
+      <li>호격 조사</li>
+		</ol>
+	</article>
+</body>
+</html>

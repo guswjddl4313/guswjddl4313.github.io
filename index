@@ -28,13 +28,13 @@
 <body>
 	<header>
 		<h1>2.단어와 품사</h1>
-		<h2><a href="https://guswjddl4313.github.io">(1)단어의 품사와 특성</a></h2>
+		<h2><a href="https://guswjddl4313.github.io/index">(1)단어의 품사와 특성</a></h2>
 	</header>
 	<nav>
 		<ul>
-			<li><a href="">격조사</a></li>
-			<li><a href="">보조사</a></li>
-			<li><a href="">접속조사</a></li>
+			<li><a href="https://guswjddl4313.github.io/index1">격조사</a></li>
+			<li><a href="https://guswjddl4313.github.io/index2">보조사</a></li>
+			<li><a href="https://guswjddl4313.github.io/index3">접속조사</a></li>
 		</ul>
 	</nav>
 	<article>
